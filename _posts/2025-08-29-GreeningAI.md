@@ -1,6 +1,6 @@
 ---
 title: GreeningAI - Next.js 14 Object Detection Application
-date: 2024-09-15 14:30:00 -500
+date: 2025-09-15 14:30:00 -500
 categories: [web development, ai/ml, full-stack, computer vision]
 tags: [Next.js, React, Hugging Face, Object Detection, AI/ML, Tailwind CSS, API Integration]
 ---
